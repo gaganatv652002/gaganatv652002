@@ -1,19 +1,19 @@
-# 👋 Hi, I'm Gagana T V
+#  Hi, I'm Gagana T V
 
-🎓 MCA Graduate | 💻 Python Developer | 🚀 Aspiring Full Stack Engineer
+ MCA Graduate |  Python Developer 
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 I am a passionate and motivated MCA graduate with hands-on experience in building full-stack web applications using Python and Django. I enjoy solving real-world problems through code and continuously improving my technical and communication skills.
 
-* 🔭 Currently working as a **Python Developer Intern**
-* 🎯 Goal: To become a skilled Software Developer in a reputed company
+*  Currently working as a **Python Developer**
+*  Goal: To become a skilled Software Developer in a reputed company
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages:** Python, JavaScript
 **Frontend:** HTML5, CSS3, Bootstrap
@@ -24,9 +24,9 @@ I am a passionate and motivated MCA graduate with hands-on experience in buildin
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
-### 🏢 Python Developer Intern – Tinos Software and Security Solutions
+###  Python Developer Intern – Tinos Software and Security Solutions
 
 **Aug 2025 – Oct 2025**
 
@@ -35,7 +35,7 @@ I am a passionate and motivated MCA graduate with hands-on experience in buildin
 * Designed responsive UI
 * Managed database operations
 
-### 🏢 Python Developer Intern – Altos Technologies, Infopark Kochi
+###  Python Developer Intern – Altos Technologies, Infopark Kochi
 
 **Dec 2025 – Present**
 
@@ -45,40 +45,40 @@ I am a passionate and motivated MCA graduate with hands-on experience in buildin
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 🎂 Cake E-commerce Website
+###  Cake E-commerce Website
 
 * Full-stack e-commerce application
 * User authentication, cart, order management
 * Tech: Django, HTML, CSS, JS, MySQL
 
-### 📊 Accreditation Data Management System
+###  Accreditation Data Management System
 
 * Web system for managing accreditation data
 * Data validation and reporting features
 
-### 🧑‍💼 Employee Management System
+###  Employee Management System
 
 * Role-based access control system
 * CRUD operations and database handling
 
-### 🎟️ Event Booking Platform
+###  Event Booking Platform
 
 * Event browsing and booking system
 * Backend scheduling and seat tracking
 
-### 🎓 College Management System
+###  College Management System
 
 * Student, faculty, attendance management
 
-### 📚 Tuition Center Website
+###  Tuition Center Website
 
 * Course and student management platform
 
 ---
 
-## 📈 Strengths
+##  Strengths
 
 * Problem-solving mindset
 * Quick learner
@@ -87,11 +87,9 @@ I am a passionate and motivated MCA graduate with hands-on experience in buildin
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-🔗 LinkedIn: www.linkedin.com/in/gaganatv
-💻 GitHub: https://github.com/gaganatv652002
+ LinkedIn: www.linkedin.com/in/gaganatv
+ GitHub: https://github.com/gaganatv652002
 
 ---
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
