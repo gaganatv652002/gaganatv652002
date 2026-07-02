@@ -35,7 +35,7 @@ I am a passionate and motivated MCA graduate with hands-on experience in buildin
 * Designed responsive UI
 * Managed database operations
 
-###  Python Developer Intern – Altos Technologies, Infopark Kochi
+###  Python Developer – Altos Technologies, Infopark Kochi
 
 **Dec 2025 – Present**
 
